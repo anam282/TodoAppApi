@@ -1,0 +1,9 @@
+/home/anam/IdeaProjects/todolist/src/main/java/com/anam/todolist/config/WebConfig.java
+/home/anam/IdeaProjects/todolist/src/main/java/com/anam/todolist/controller/ToDoController.java
+/home/anam/IdeaProjects/todolist/src/main/java/com/anam/todolist/service/TodoService.java
+/home/anam/IdeaProjects/todolist/src/main/java/com/anam/todolist/dao/TaskDaoImpl.java
+/home/anam/IdeaProjects/todolist/src/main/java/com/anam/todolist/dao/TaskDao.java
+/home/anam/IdeaProjects/todolist/src/main/java/com/anam/todolist/config/MyWebAppInitializer.java
+/home/anam/IdeaProjects/todolist/src/main/java/com/anam/todolist/config/AppConfig.java
+/home/anam/IdeaProjects/todolist/src/main/java/com/anam/todolist/service/TodoServiceImpl.java
+/home/anam/IdeaProjects/todolist/src/main/java/com/anam/todolist/model/Task.java
